@@ -1,12 +1,13 @@
 # AtliQon-Sportsbar-Consolidated-Pipeline
 
 ## Project Architecture
-<img src="Images/project_architecture.png" alt="Project Architecture" width="1200">
+![](./images/project_architecture.png)
 
 ## Pipeline for the Job Run
-<img src="Images/job_run.png" alt="Pipeline for the Job Run" width="1200">
+![](./images/job_run.png)
 
 ### Repository Structure
+```text
 ├── 1_setup
 │   ├── dim_date_table_creation
 │   ├── setup_catalogs
@@ -23,6 +24,7 @@
 │   └── project_architecture.png
 ├── sql_query
 ├── README.md
+```
 
 
 
