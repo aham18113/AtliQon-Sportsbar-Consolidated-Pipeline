@@ -6,7 +6,7 @@
 ## Pipeline for the Job Run
 ![](./images/job_run.png)
 
-### Repository Structure
+## Repository Structure
 ```text
 ├── 1_setup
 │   ├── dim_date_table_creation
